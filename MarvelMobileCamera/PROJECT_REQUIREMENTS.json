@@ -1,0 +1,11 @@
+{
+  "application": "Marvel Mobile Camera",
+  "distribution": "direct APK only",
+  "modes": ["SRT LAN", "RTMP/RTMPS"],
+  "presets": ["1080p25", "1080p30", "1080p60", "4K25", "4K30"],
+  "excluded": ["720p", "4K60", "NDI"],
+  "default": "1080p30",
+  "camera": "all Android-exposed logical/physical lenses, switch while streaming where supported",
+  "srt": "Caller to vMix Listener; fixed default port 10080 and latency 60 ms; H.264/AAC MPEG-TS",
+  "rtmp": "H.264/AAC hardware encode, retry, telemetry"
+}

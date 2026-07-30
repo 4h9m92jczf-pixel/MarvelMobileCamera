@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Marvel Mobile Camera</string>
+    <string name="mode_rtmp">RTMP</string>
+    <string name="mode_srt">SRT LAN</string>
+    <string name="start_live">BẮT ĐẦU PHÁT</string>
+    <string name="stop_live">DỪNG PHÁT</string>
+</resources>
