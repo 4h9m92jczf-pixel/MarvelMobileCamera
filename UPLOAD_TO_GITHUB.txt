@@ -1,0 +1,10 @@
+CÁCH TẢI DỰ ÁN LÊN GITHUB
+
+1. Giải nén file MarvelMobileCamera-SRT-RTMP-source.zip.
+2. Mở repository MarvelMobileCamera trên GitHub.
+3. Chọn Add file > Upload files.
+4. Kéo toàn bộ NỘI DUNG bên trong thư mục đã giải nén vào trang tải lên.
+   Phải có các mục: .github, app, README.md, build.gradle.kts, settings.gradle.kts.
+5. Ở cuối trang bấm Commit changes.
+6. Mở tab Actions. Workflow "Build Android APK" sẽ tự chạy.
+7. Khi workflow xanh, mở lần chạy đó và tải artifact "MarvelMobileCamera-debug-apk".
